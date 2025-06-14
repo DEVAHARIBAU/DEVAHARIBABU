@@ -52,7 +52,9 @@ An intelligent assistant to discover and explore research papers from ArXiv usin
 
 Python, Pandas
 
-Hugging Face Transformers
+Hugging Face Transformers 
+
+arXiv, RAG
 
 LangChain, FAISS
 
