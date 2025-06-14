@@ -9,7 +9,7 @@ Creator of AI-Powered Tools for Developers & Researchers
 
 🐞 Bug Report Analysis Agent
 
-📌 Try the Project →
+📌 Try the Project → https://huggingface.co/spaces/Devaharibabu/Bug-Report-Analysis-Agent_
 
 A smart system that analyzes software bug reports, finds similar past issues, and recommends related code snippets to accelerate debugging.
 
@@ -29,7 +29,7 @@ A smart system that analyzes software bug reports, finds similar past issues, an
 
 📄 Scientific Paper Discovery using RAG & Arxiv
 
-📌 Explore the Project →
+📌 Explore the Project → https://huggingface.co/spaces/Devaharibabu/Arxiv_RAG_Scientific_Paper_Discovery
 
 An intelligent assistant to discover and explore research papers from ArXiv using semantic search and LLMs.
 
